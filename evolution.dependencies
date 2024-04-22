@@ -1,0 +1,10 @@
+[
+  {
+    "repository"  : "device_google_shusky",
+    "target_path" : "device/google/shusky"
+  },
+  {
+    "repository"  : "vendor_google_shiba",
+    "target_path" : "vendor/google/shiba"
+  }
+]
