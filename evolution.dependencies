@@ -1,0 +1,6 @@
+[
+  {
+    "repository"  : "device_google_shusky",
+    "target_path" : "device/google/shusky"
+  }
+]
